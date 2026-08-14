@@ -1,54 +1,56 @@
-# GitHub Profile README setup
+# JOY LAMKA — Arcade Profile Setup
 
-This folder is designed to become your GitHub profile repository.
+## Repository
 
-## 1. Repository name
-
-Create a **public** repository whose name is exactly your GitHub username.
-
-For example:
+Create a public repository named exactly:
 
 ```text
-jlamka/jlamka
+YOUR-GITHUB-USERNAME
 ```
 
-Then place `README.md` and `.github/workflows/snake.yml` in that repository.
+For a profile README repository, the repository name must match your GitHub username.
 
-## 2. Important username check
+## Username
 
-The README currently uses `jlamka` in the dynamic GitHub widgets.
-
-If your actual GitHub username is different, replace every occurrence of:
+The current README uses:
 
 ```text
 jlamka
 ```
 
-with your actual username.
+Replace it everywhere if your actual GitHub username is different.
 
-## 3. Contribution animation
+## Arcade aesthetic
 
-The workflow generates:
+The README uses:
 
-- `snake.svg` for light mode
-- `snake-dark.svg` for dark mode
+- animated typing
+- terminal/game interfaces
+- progress bars
+- arcade-style ASCII
+- contribution statistics
+- a growth maze concept
 
-It publishes them to an `output` branch automatically.
+There are intentionally **no emoji characters** in the README.
 
-The workflow runs daily and can also be started manually from:
+## Contribution snake
 
-**GitHub → Actions → Generate Contribution Snake → Run workflow**
+The workflow in:
 
-## 4. Optional upgrades
+```text
+.github/workflows/contribution-snake.yml
+```
 
-You can later add:
+generates the contribution animation and publishes it to the `output` branch.
 
-- a custom profile illustration
-- a 3D contribution graph
-- GitHub trophies
-- pinned project cards
-- a custom portfolio link
-- a LinkedIn badge
-- a downloadable CV badge
+Run it manually once from:
 
-The README is intentionally kept professional enough for recruiters while still having personality.
+GitHub → Actions → Generate Contribution Snake → Run workflow
+
+## Important
+
+The README currently uses external image/stat services. GitHub must be able to load those services for their animations and statistics to appear.
+
+## Recommended final customization
+
+Replace the text values in the growth stats with values that feel honest to you over time. The numbers are presented as a game mechanic, not objective measurements.
