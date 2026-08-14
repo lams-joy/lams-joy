@@ -1,20 +1,26 @@
-# Joy Lamka — Galaga Contribution Arcade
+# Joy Lamka — Galaga Contribution Arcade v3
 
-The README's arcade is a self-contained animated GIF:
+The arcade is a self-contained **30-second animated GIF**.
 
 ```text
 assets/galaga-github-contributions.gif
 ```
 
-It is intentionally not dependent on a JavaScript game, external game service, generated branch, or contribution API.
+### Visual concept
 
-The visual concept is:
+The contribution grid is the game field.
 
-**Joy's ship → fires through → a GitHub-style contribution heat map**
+- The heat map represents GitHub contribution days.
+- Darker cells represent quieter days.
+- Bright cells represent higher-contribution days.
+- The ship tracks the bright/high-contribution days.
+- The ship fires at the selected target.
+- Successful hits increase the score and advance the level.
+- The animation loops continuously.
 
-The animation is approximately 12 seconds long and loops continuously.
+It is intentionally a visual interpretation rather than a live GitHub-data integration.
 
-## Install
+### Install
 
 Copy these into your GitHub profile repository:
 
@@ -23,6 +29,6 @@ README.md
 assets/galaga-github-contributions.gif
 ```
 
-The README references the GIF using a relative repository path, so GitHub can render it directly.
+The README uses a relative path, so GitHub renders the GIF directly from the repository.
 
-There is no banner and no GitHub telemetry/statistics in this version.
+No banner and no GitHub telemetry/statistics are included.

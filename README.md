@@ -75,13 +75,13 @@ A reporting platform concept focused on anonymous reporting and safer access to 
 
 <div align="center">
 
-<img src="./assets/galaga-github-contributions.gif" alt="Galaga-inspired spaceship blasting a GitHub contribution heat map" width="1000">
+<img src="./assets/galaga-github-contributions.gif" alt="Galaga-inspired spaceship targeting high-contribution GitHub days" width="1000">
 
 </div>
 
-The idea: **every contribution is something the ship is trying to hit.**
+**The ship isn't randomly firing. It's hunting the brightest days in the contribution grid.**
 
-The ship fires through the contribution grid, turning the GitHub heat map into the arcade target.
+The brighter the contribution day, the more valuable the target.
 
 ---
 
