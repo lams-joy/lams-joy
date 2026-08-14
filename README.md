@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/joy-banner.svg" alt="Joy Lamka profile banner" width="100%">
+# JOY LAMKA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=780&lines=Software+Developer;Go+%7C+Python+%7C+Cloud+%7C+IoT;Learning+by+building;Still+becoming)](https://git.io/typing-svg)
 
 </div>
 
-## `about me`
+## about me
 
 I'm **Joy Lamka**, a software developer with a background in **Microprocessor Technology & Instrumentation**. I enjoy working where software meets hardware, cloud systems, and real-world problems.
 
@@ -16,7 +16,7 @@ I'm interested in more than collecting technologies. I want to understand system
 
 ---
 
-## `currently`
+## currently
 
 ```text
 FOCUS
@@ -33,7 +33,7 @@ MODE                      BUILD → BREAK → DEBUG → UNDERSTAND
 
 ---
 
-## `the toolbox`
+## the toolbox
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=go,python,js,mysql,git,github,docker,linux,aws,azure,vscode" alt="Technical skills">
@@ -43,7 +43,7 @@ MODE                      BUILD → BREAK → DEBUG → UNDERSTAND
 
 ---
 
-## `things i've built`
+## things i've built
 
 ### Scholarship Administration Backend
 
@@ -71,25 +71,21 @@ A reporting platform concept focused on anonymous reporting and safer access to 
 
 ---
 
-# `THE ARCADE`
+# GALAGA // CONTRIBUTION ARCADE
 
 <div align="center">
 
-### GALAGA // CONTRIBUTION DEFENSE SYSTEM
-
-*The only part of this profile that is here to play a game.*
-
-<img src="https://raw.githubusercontent.com/jlamka/jlamka/output-pacman/pacman-contribution-graph.svg" alt="Contribution arcade visualization" width="95%">
+<img src="./assets/galaga-arcade.gif" alt="Animated Galaga-inspired arcade visualization" width="900">
 
 </div>
 
-> Every contribution becomes part of the formation. Keep shipping and the screen keeps moving.
+This is the one part of the profile that gets to be a little extra.
 
-The rest of this profile stays intentionally human: projects, growth, interests, and the things I'm learning along the way.
+The rest stays focused on **me, my work, my projects and my growth**.
 
 ---
 
-## `growth log`
+## growth log
 
 ```text
 2021  ── Started university
@@ -109,7 +105,7 @@ The rest of this profile stays intentionally human: projects, growth, interests,
 NOW   ── Building the next version of myself
 ```
 
-### Beyond the code
+### beyond the code
 
 Some of my growth has happened completely outside programming.
 
@@ -124,56 +120,42 @@ I've learned that becoming a better developer and becoming a better person aren'
 
 ---
 
-## `github telemetry`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlamka&theme=tokyonight" alt="GitHub contribution summary" width="95%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jlamka&theme=tokyonight" alt="Most committed languages" width="45%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jlamka&theme=tokyonight" alt="Repository languages" width="45%">
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jlamka&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `learning loop`
+## personal growth
 
 ```text
-             ┌──────────────┐
-             │    LEARN     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BUILD     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BREAK     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DEBUG     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  UNDERSTAND  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   REBUILD    │
-             └──────┬───────┘
-                    │
-                    └──────────────→ repeat
+             LEARN
+               │
+               ▼
+             BUILD
+               │
+               ▼
+             BREAK
+               │
+               ▼
+             DEBUG
+               │
+               ▼
+           UNDERSTAND
+               │
+               ▼
+            REBUILD
+               │
+               └──────────────► repeat
 ```
+
+University gave me foundations.
+
+Internships gave me exposure to real systems and teams.
+
+Zone01 gave me a place to become comfortable being uncomfortable.
+
+Projects taught me that failure is part of engineering.
+
+Everything outside technology has taught me that growth isn't measured only by the number of technologies I know.
 
 ---
 
-## `outside the code`
+## outside the code
 
 I like debate, communication, creative projects, community activities and learning about technology beyond whatever happens to be in my current stack.
 
@@ -183,7 +165,7 @@ I'm especially drawn to ideas that connect technology with people and practical 
 
 <div align="center">
 
-## `CURRENT OBJECTIVE`
+## CURRENT OBJECTIVE
 
 ```text
 BUILD USEFUL THINGS

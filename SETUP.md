@@ -1,39 +1,28 @@
-# Joy Lamka GitHub Profile Setup
+# Setup
 
-## 1. Create the profile repository
+1. Create a public GitHub profile repository named exactly after your GitHub username.
+2. Copy `README.md` and the `assets` folder into the repository root.
+3. Confirm that `assets/galaga-arcade.gif` is committed.
+4. Replace `jlamka` in the README if your GitHub username is different.
 
-Create a public repository named exactly your GitHub username.
+## Why the arcade works
 
-The README currently assumes:
-
-```text
-jlamka
-```
-
-Replace `jlamka` if your username is different.
-
-## 2. Add the files
+The arcade is a self-contained animated GIF stored directly in the repository:
 
 ```text
-README.md
-SETUP.md
-assets/joy-banner.svg
-.github/workflows/contribution-arcade.yml
-.github/workflows/contribution-snake.yml
+assets/galaga-arcade.gif
 ```
 
-## 3. Enable GitHub Actions
+The README references it with a relative path:
 
-Go to Repository → Settings → Actions → General and allow GitHub Actions.
+```html
+<img src="./assets/galaga-arcade.gif" ...>
+```
 
-Run **Generate contribution arcade** manually once. It publishes the generated Galaga-style contribution visualization to the `output-pacman` branch.
+This avoids depending on an external contribution-graph service or a generated branch.
 
-Run **Generate contribution snake** manually if you also want the snake animation available.
+GitHub can display the GIF directly in the profile README.
 
-## 4. Why the arcade is only one section
+## Removed
 
-The profile deliberately does NOT make everything game-themed. The arcade is a visual signature in the middle of the profile; the rest is a normal developer profile with projects, skills, telemetry and a personal growth story.
-
-## 5. Custom banner
-
-`assets/joy-banner.svg` is a custom original arcade-inspired banner made for this profile. It can be edited later without changing the README structure.
+The previous version's banner and GitHub telemetry/statistics have intentionally been removed.
