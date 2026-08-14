@@ -33,7 +33,7 @@ MODE                      BUILD → BREAK → DEBUG → UNDERSTAND
 
 ---
 
-## the toolbox
+## toolbox
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=go,python,js,mysql,git,github,docker,linux,aws,azure,vscode" alt="Technical skills">
@@ -71,17 +71,17 @@ A reporting platform concept focused on anonymous reporting and safer access to 
 
 ---
 
-# GALAGA // CONTRIBUTION ARCADE
+# GALAGA // GITHUB CONTRIBUTION ARCADE
 
 <div align="center">
 
-<img src="./assets/galaga-arcade.gif" alt="Animated Galaga-inspired arcade visualization" width="900">
+<img src="./assets/galaga-github-contributions.gif" alt="Galaga-inspired spaceship blasting a GitHub contribution heat map" width="1000">
 
 </div>
 
-This is the one part of the profile that gets to be a little extra.
+The idea: **every contribution is something the ship is trying to hit.**
 
-The rest stays focused on **me, my work, my projects and my growth**.
+The ship fires through the contribution grid, turning the GitHub heat map into the arcade target.
 
 ---
 

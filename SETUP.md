@@ -1,28 +1,28 @@
-# Setup
+# Joy Lamka — Galaga Contribution Arcade
 
-1. Create a public GitHub profile repository named exactly after your GitHub username.
-2. Copy `README.md` and the `assets` folder into the repository root.
-3. Confirm that `assets/galaga-arcade.gif` is committed.
-4. Replace `jlamka` in the README if your GitHub username is different.
-
-## Why the arcade works
-
-The arcade is a self-contained animated GIF stored directly in the repository:
+The README's arcade is a self-contained animated GIF:
 
 ```text
-assets/galaga-arcade.gif
+assets/galaga-github-contributions.gif
 ```
 
-The README references it with a relative path:
+It is intentionally not dependent on a JavaScript game, external game service, generated branch, or contribution API.
 
-```html
-<img src="./assets/galaga-arcade.gif" ...>
+The visual concept is:
+
+**Joy's ship → fires through → a GitHub-style contribution heat map**
+
+The animation is approximately 12 seconds long and loops continuously.
+
+## Install
+
+Copy these into your GitHub profile repository:
+
+```text
+README.md
+assets/galaga-github-contributions.gif
 ```
 
-This avoids depending on an external contribution-graph service or a generated branch.
+The README references the GIF using a relative repository path, so GitHub can render it directly.
 
-GitHub can display the GIF directly in the profile README.
-
-## Removed
-
-The previous version's banner and GitHub telemetry/statistics have intentionally been removed.
+There is no banner and no GitHub telemetry/statistics in this version.
